@@ -1,2 +1,4 @@
 # hello-world
-First repository
+
+
+Noob looking to get into the tech world.  
